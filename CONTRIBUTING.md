@@ -28,6 +28,7 @@ We use [cargo-release](https://github.com/sunng87/cargo-release) to make the pro
 ```sh
 cargo install cargo-release
 cargo release
+# cargo release patch
 # cargo release minor
 # cargo release major
 ```
